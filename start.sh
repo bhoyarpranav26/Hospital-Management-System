@@ -1,2 +1,2 @@
 #!/bin/bash
-./mvnw spring-boot:run
+hospitalManagementSystem/mvnw spring-boot:run
